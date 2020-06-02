@@ -1,0 +1,254 @@
+
+
+LTIME58
+Magic Elements		https://www.codechef.com/LTIME58A/problems/ZOZ
+Three Integers		https://www.codechef.com/LTIME58A/problems/AFK
+Partitions		https://www.codechef.com/LTIME58A/problems/ARRP
+Chef and Friends		https://www.codechef.com/LTIME58A/problems/FRK
+Queries with GCD		https://www.codechef.com/LTIME58A/problems/GQR
+Queries on Tree		https://www.codechef.com/LTIME58A/problems/TRS
+
+
+LTIME59
+The hardest gcd problem		https://www.codechef.com/LTIME59A/problems/GCDDIV
+Triple-tree decomposition		https://www.codechef.com/LTIME59A/problems/TREE3
+Fast forward travelling		https://www.codechef.com/LTIME59A/problems/FFT
+Solve what you want		https://www.codechef.com/LTIME59A/problems/NPORP
+Two vs Ten		https://www.codechef.com/LTIME59A/problems/TWOVSTEN
+Darts		https://www.codechef.com/LTIME59A/problems/DARTSEGM
+
+
+LTIME60
+Count Substrings		https://www.codechef.com/LTIME60A/problems/SBSTR
+Maximum Plus		https://www.codechef.com/LTIME60A/problems/PLUS
+Shifted Palindrome		https://www.codechef.com/LTIME60A/problems/SHIFTPAL
+Weak in the Middle		https://www.codechef.com/LTIME60A/problems/WEAKMID
+Sum on Tree		https://www.codechef.com/LTIME60A/problems/TSUM2
+Trace of Matrix		https://www.codechef.com/LTIME60A/problems/TRACE
+
+
+LTIME61
+Summary Power		https://www.codechef.com/LTIME61A/problems/SUMPOWER
+Sort the Leaves		https://www.codechef.com/LTIME61A/problems/TREESORT
+Permutation Composition Queries		https://www.codechef.com/LTIME61A/problems/DOCSDEL
+Counting Pretty Numbers		https://www.codechef.com/LTIME61A/problems/NUM239
+Unusual Sorting		https://www.codechef.com/LTIME61A/problems/XORSORT2
+Graph on a Table		https://www.codechef.com/LTIME61A/problems/TBGRAPH
+
+
+LTIME62
+Forced Particles		https://www.codechef.com/LTIME62A/problems/FRCPRT
+Prime divisors		https://www.codechef.com/LTIME62A/problems/PRMDIV
+GCD Sum		https://www.codechef.com/LTIME62A/problems/GCDSUM
+Make a String		https://www.codechef.com/LTIME62A/problems/MKSTR
+Split Stones		https://www.codechef.com/LTIME62A/problems/SPLST
+MEX and Ranges		https://www.codechef.com/LTIME62A/problems/MEXRNG
+
+
+LTIME63
+Chef and Eid		https://www.codechef.com/LTIME63A/problems/EID
+Mix Mix Game		https://www.codechef.com/LTIME63A/problems/JAGAM
+GukiZ Has More Candies		https://www.codechef.com/LTIME63A/problems/GHMC
+X and Two Groups		https://www.codechef.com/LTIME63A/problems/XTGR
+Chef and Problem Setting		https://www.codechef.com/LTIME63A/problems/PROBSET
+Swimming Pool		https://www.codechef.com/LTIME63A/problems/SPOOL
+
+
+LTIME64
+Chef Restaurant 		https://www.codechef.com/LTIME64A/problems/CHEFRES
+Opposite Cites		https://www.codechef.com/LTIME64A/problems/OPPOSITE
+Biased Judgement		https://www.codechef.com/LTIME64A/problems/BJUDGE
+Match the Streams		https://www.codechef.com/LTIME64A/problems/MATCH2
+Judging Delay		https://www.codechef.com/LTIME64A/problems/JDELAY
+Coin Partition		https://www.codechef.com/LTIME64A/problems/COINPART
+
+
+LTIME65
+Coloring the Grid		https://www.codechef.com/LTIME65A/problems/CLORGIRD
+Weird Question		https://www.codechef.com/LTIME65A/problems/WEIRD2
+Niceness of the Arrays		https://www.codechef.com/LTIME65A/problems/NICARRAY
+Three Friends		https://www.codechef.com/LTIME65A/problems/THREEFR
+Robots Again		https://www.codechef.com/LTIME65A/problems/ROBAGAIN
+Tree Walk		https://www.codechef.com/LTIME65A/problems/TREEWLK2
+
+
+LTIME66
+Beats and Pieces		https://www.codechef.com/LTIME66A/problems/BPS
+Useful Number		https://www.codechef.com/LTIME66A/problems/USF
+Maximize It		https://www.codechef.com/LTIME66A/problems/MXM
+Median		https://www.codechef.com/LTIME66A/problems/MDN
+Probability		https://www.codechef.com/LTIME66A/problems/PPAP
+Event		https://www.codechef.com/LTIME66A/problems/EVENT
+
+
+LTIME67
+Age Calculator		https://www.codechef.com/LTIME67A/problems/AGECAL
+Choosing from Buckets		https://www.codechef.com/LTIME67A/problems/BUCKETS
+Drawing Lines		https://www.codechef.com/LTIME67A/problems/DLINE
+Maximize the NOSS		https://www.codechef.com/LTIME67A/problems/NOSS
+Find Best Path		https://www.codechef.com/LTIME67A/problems/BESTPATH
+Print Pattern		https://www.codechef.com/LTIME67A/problems/PPATTERN
+
+
+LTIME68
+Rooks		https://www.codechef.com/LTIME68A/problems/RKS
+Distances		https://www.codechef.com/LTIME68A/problems/DIS
+Wanderer		https://www.codechef.com/LTIME68A/problems/WNDR
+Mouse Meets Cheese		https://www.codechef.com/LTIME68A/problems/MMC
+The Nights Watch		https://www.codechef.com/LTIME68A/problems/WTCH
+Bus Station		https://www.codechef.com/LTIME68A/problems/BSTN
+
+
+LTIME69
+The Tricky Deal		https://www.codechef.com/LTIME69A/problems/TRICKYDL
+Chef Challenge		https://www.codechef.com/LTIME69A/problems/CHFCH
+Roll the Bar		https://www.codechef.com/LTIME69A/problems/ROLLBAR
+Families of Chefland		https://www.codechef.com/LTIME69A/problems/GRAPHTRE
+Average Number		https://www.codechef.com/LTIME69A/problems/AVG
+Create Permutation		https://www.codechef.com/LTIME69A/problems/PERMLIST
+
+
+LTIME70
+Corrupted Seven-Segment Display		https://www.codechef.com/LTIME70A/problems/SEVENSEG
+Travelling Saleschef		https://www.codechef.com/LTIME70A/problems/TRVLCHEF
+Partition into Permutations		https://www.codechef.com/LTIME70A/problems/PERMPART
+Tree Flow		https://www.codechef.com/LTIME70A/problems/TREF
+Testing Robot		https://www.codechef.com/LTIME70A/problems/TSTROBOT
+Pogo Stick Competition		https://www.codechef.com/LTIME70A/problems/POGOSTCK
+GCD Subsequences		https://www.codechef.com/LTIME70A/problems/GCDS
+
+
+LTIME71
+Minimum Sum		https://www.codechef.com/LTIME71A/problems/MINARRS
+Firdavs and Planet F		https://www.codechef.com/LTIME71A/problems/FAPF
+Dream Problem		https://www.codechef.com/LTIME71A/problems/DRMP
+Chef Rami and Inventions		https://www.codechef.com/LTIME71A/problems/CHEFRAMI
+Attendance		https://www.codechef.com/LTIME71A/problems/ATTND
+Fast Food		https://www.codechef.com/LTIME71A/problems/FASTFOOD
+The Last Droid		https://www.codechef.com/LTIME71A/problems/R2D2
+
+
+LTIME72
+Grid Tour		https://www.codechef.com/LTIME72A/problems/GRIDTOUR
+Reverse Maximisation		https://www.codechef.com/LTIME72A/problems/REMMAX
+Abdullah and Toll Discounts		https://www.codechef.com/LTIME72A/problems/ABDTOLL
+XOR Magic		https://www.codechef.com/LTIME72A/problems/XM
+Intervals and Intersections		https://www.codechef.com/LTIME72A/problems/IAI
+Dummy Palindromic Strings		https://www.codechef.com/LTIME72A/problems/DPS
+CV		https://www.codechef.com/LTIME72A/problems/CV
+
+
+LTIME73
+Igzi and Burly Array		https://www.codechef.com/LTIME73A/problems/BURARRAY
+The Grux Permutation 		https://www.codechef.com/LTIME73A/problems/DPERM
+Gii and His Club		https://www.codechef.com/LTIME73A/problems/GIIKLUB
+Fuzzy Conversions		https://www.codechef.com/LTIME73A/problems/FUZZYCON
+Ivan Pesic and His World Tour		https://www.codechef.com/LTIME73A/problems/QRYLAND
+Magda and Silly Pairs		https://www.codechef.com/LTIME73A/problems/SILLYPRS
+Ping Paja Pong		https://www.codechef.com/LTIME73A/problems/PAJAPONG
+
+
+LTIME74
+Delete a Subarray		https://www.codechef.com/LTIME74A/problems/DELARRAY
+Professor on a Trip		https://www.codechef.com/LTIME74A/problems/PROFTRIP
+Two-lane Road		https://www.codechef.com/LTIME74A/problems/TWOLANE
+Easy Math		https://www.codechef.com/LTIME74A/problems/RPD
+Equal Median		https://www.codechef.com/LTIME74A/problems/EQMD
+Swapping		https://www.codechef.com/LTIME74A/problems/SFRV
+Police and Thieves		https://www.codechef.com/LTIME74A/problems/POLICE
+
+
+LTIME75
+Destroy Cells		https://www.codechef.com/LTIME75A/problems/DESTCELL
+Chef Does Coke Yet Again		https://www.codechef.com/LTIME75A/problems/COKE2
+Equal Average		https://www.codechef.com/LTIME75A/problems/EQAVG
+Beauty of Pairs		https://www.codechef.com/LTIME75A/problems/BOFP
+Beauty of Segments		https://www.codechef.com/LTIME75A/problems/BOFS
+Eidi Gift		https://www.codechef.com/LTIME75A/problems/EID2
+Chef and Trip		https://www.codechef.com/LTIME75A/problems/TRIP2
+
+
+LTIME76
+Find the Sum		https://www.codechef.com/LTIME76A/problems/PAIRSUM2
+All Substrings		https://www.codechef.com/LTIME76A/problems/ALLSUB
+Treeversion		https://www.codechef.com/LTIME76A/problems/TREEVERS
+Ice Cream Queue		https://www.codechef.com/LTIME76A/problems/ICECREM
+Chef Feeds Cats		https://www.codechef.com/LTIME76A/problems/CATFEED
+Apples and Oranges		https://www.codechef.com/LTIME76A/problems/APPLE42
+Chef and Football Match		https://www.codechef.com/LTIME76A/problems/WATCHFB
+
+
+LTIME77
+Box Game		https://www.codechef.com/LTIME77A/problems/BOXGAM97
+Counting Inversions Again!		https://www.codechef.com/LTIME77A/problems/INVZCNT
+Kth Numbers		https://www.codechef.com/LTIME77A/problems/KTH97
+Khaled in HIT		https://www.codechef.com/LTIME77A/problems/HIT
+Double Distance Query		https://www.codechef.com/LTIME77A/problems/DDQUERY
+Counting Inversions Revisited		https://www.codechef.com/LTIME77A/problems/INVYCNT
+Random Number Generator		https://www.codechef.com/LTIME77A/problems/RNG97
+
+
+LTIME78
+Planting Trees		https://www.codechef.com/LTIME78A/problems/DEADEND
+Washing Windows		https://www.codechef.com/LTIME78A/problems/APARTS
+Perfection		https://www.codechef.com/LTIME78A/problems/PRFCTN
+Team Trees		https://www.codechef.com/LTIME78A/problems/PLANT
+Servers		https://www.codechef.com/LTIME78A/problems/SRVR
+Compress the List		https://www.codechef.com/LTIME78A/problems/CMPRSS
+Pizza or Broccoli 		https://www.codechef.com/LTIME78A/problems/PIBRO
+
+
+LTIME79
+Guess the number		https://www.codechef.com/LTIME79A/problems/GUESSNUM
+The Evil Professor		https://www.codechef.com/LTIME79A/problems/EVIPRO
+Frequency Function		https://www.codechef.com/LTIME79A/problems/FREQFUN
+Check Algorithm		https://www.codechef.com/LTIME79A/problems/CHEALG
+Stupid Machine		https://www.codechef.com/LTIME79A/problems/STUPMACH
+Stick and polygon		https://www.codechef.com/LTIME79A/problems/STICK2
+Tree Query		https://www.codechef.com/LTIME79A/problems/TREEQ1
+
+
+LTIME80
+Under the Tunnels		https://www.codechef.com/LTIME80A/problems/POPTUNNL
+Construct Array		https://www.codechef.com/LTIME80A/problems/CARR
+Folding Paper		https://www.codechef.com/LTIME80A/problems/PAPER
+Minimum and Maximum		https://www.codechef.com/LTIME80A/problems/MINMAXIN
+Bob and His Friends		https://www.codechef.com/LTIME80A/problems/BFRIEND
+Chef and Street Food		https://www.codechef.com/LTIME80A/problems/STFOOD
+CCDSAP Exam		https://www.codechef.com/LTIME80A/problems/CCDSAP
+
+
+LTIME81
+Swapping to Palindrome		https://www.codechef.com/LTIME81A/problems/SWAPPALI
+Secret Mission		https://www.codechef.com/LTIME81A/problems/SECRETMI
+Monsters Battle		https://www.codechef.com/LTIME81A/problems/MONSTBAT
+Painter Problem		https://www.codechef.com/LTIME81A/problems/PAINTERP
+At the Gates		https://www.codechef.com/LTIME81A/problems/POPGATES
+Coronavirus		https://www.codechef.com/LTIME81A/problems/CORTREE
+Not All Flavours		https://www.codechef.com/LTIME81A/problems/NOTALLFL
+
+
+LTIME82
+Maximize LCM		https://www.codechef.com/LTIME82A/problems/MXMLCM
+Strip in a Tree!		https://www.codechef.com/LTIME82A/problems/STRPTRE
+Chef and Secret Recipe		https://www.codechef.com/LTIME82A/problems/SCRRCP
+Nested Rotation		https://www.codechef.com/LTIME82A/problems/NSTROT
+Chef Swaps Digits		https://www.codechef.com/LTIME82A/problems/SWPDGT
+Good Prefix		https://www.codechef.com/LTIME82A/problems/PRFXGD
+Mysterious Ratio		https://www.codechef.com/LTIME82A/problems/RNDRATIO
+
+
+LTIME83
+Positive Mex		https://www.codechef.com/LTIME83A/problems/MEXUM
+Triangle Query		https://www.codechef.com/LTIME83A/problems/TRIQRY
+Xor Jar Muluk Tar		https://www.codechef.com/LTIME83A/problems/HXR
+Dot Time		https://www.codechef.com/LTIME83A/problems/DOTTIME
+Chef in Fantasy League		https://www.codechef.com/LTIME83A/problems/FFL
+Another Birthday Present!		https://www.codechef.com/LTIME83A/problems/SHUFFLE
+Jumping Fever		https://www.codechef.com/LTIME83A/problems/JMPFVR
+
+
+LTIME84
+
+
+LTIME85

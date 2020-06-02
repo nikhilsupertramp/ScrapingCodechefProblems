@@ -1,0 +1,827 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta property='og:title' content='CodeChef Contest - LTIME85A' />
+<meta name='twitter:title' content='CodeChef Contest - LTIME85A' />
+<meta name='twitter:site' content='www.codechef.com' />
+<meta name='twitter:card' content='summary_large_image' />
+<meta property='og:image' content='https://www.codechef.com/sites/default/files/uploads/landing_page_banners/banner-compete.jpg' />
+<meta name='twitter:image' content='https://www.codechef.com/sites/default/files/uploads/landing_page_banners/banner-compete.jpg' />
+<meta property='og:description' content='June Lunchtime 2020 Division 1' />
+<meta name='twitter:description' content='June Lunchtime 2020 Division 1' />
+<meta property='og:url' content='https://www.codechef.com/LTIME85A' />
+<meta property="og:url" content="https://www.codechef.com/LTIME85A" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="June Lunchtime 2020 Division 1 | CodeChef" />
+<meta property="og:image" content="https://www.codechef.com/sites/all/themes/abessive/logo.svg" />
+<meta property="og:description" content="June Lunchtime 2020 Division 1 | CodeChef" />
+<meta property="fb:app_id" content="191217060453" />  <!-- Errorception -->
+        <script>
+            (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
+              c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
+                c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
+                _.addEventListener?_.addEventListener("load",b,!1):_.attachEvent("onload",b)})
+            (window,document,"script","4e7c8fce06a9ab05530008e5");
+          </script>
+          <!--End Errorception -->
+<!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TV5X2M');</script>
+        <!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+            <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+             fbq('init', '2444182835820350'); 
+            fbq('track', 'PageView');
+            </script>
+            <noscript>
+             <img height="1" width="1" 
+            src="https://www.facebook.com/tr?id=2444182835820350&ev=PageView
+            &noscript=1"/>
+            </noscript>
+            <!-- End Facebook Pixel Code -->  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <title>June Lunchtime 2020 Division 1 | CodeChef</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="programming, language, algorithm, contest, contester, Java, C#, Pascal, C, C++, python, ruby, caml, ocaml, perl, haskell, lisp, prolog, fortran, assembler, asembler, functional, online, judge, problem, problemset, ACM" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/poll/poll.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/jquery-popup-overlay/popupoverlay.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/abessive/css/modal.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/codechef_todo/css/todo_notification.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/nice_menus/nice_menus.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/abessive/custom_nice_menus.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/tableofcontents/tableofcontents.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/taxonomy_list/taxonomy_list.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contest_page/css/contest_page.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/misc/jquery-ui-1.10.0/css/smoothness/jquery-ui-1.10.0.custom.min.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/abessive/submission.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/em/components/datatable/css/datatable.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/abessive/style.css?E" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/abessive/fbconnectstyle.css?E" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/abessive/new-login-bar.css?v=1" />
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?E"></script>
+<script type="text/javascript" src="/misc/drupal.js?E"></script>
+<script type="text/javascript" src="/misc/jquery-popup-overlay/popupoverlay.js?E"></script>
+<script type="text/javascript" src="/em/libs/cryptojs/aes.js?E"></script>
+<script type="text/javascript" src="/em/libs/common/common.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/js/localStorage.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/js/keybinding.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/js/codechefGenericModal.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_common_functions/codechef_common_functions.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/codechef_todo/js/todo_notification.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/fbmod/js/fb_sdk.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/jquery.scrollTo-min.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/jquery.localscroll-min.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/tableofcontents/tableofcontents.js?E"></script>
+<script type="text/javascript" src="/misc/common.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/contest_page/js/contest_page.js?E"></script>
+<script type="text/javascript" src="/misc/jquery1.7.js?E"></script>
+<script type="text/javascript" src="/misc/jquery-ui-1.10.0/js/jquery-ui-1.10.0.custom.min.js?E"></script>
+<script type="text/javascript" src="/sites/all/modules/problem_status/problemstatus.js?E"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","username":null});
+//--><!]]>
+</script>
+
+  <script type="text/javascript" src="/misc/jquery-carousel.js"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="/misc/jquery.growl.css" />
+  <script type="text/javascript" src="/misc/jquery.growl.js"></script>
+</head>
+<body  class="sidebar-right">
+  <div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="cfcd208495d565ef66e7dff9f98764da" cfcd208495d565ef66e7dff9f98764da="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("cfcd208495d565ef66e7dff9f98764da"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="c4ca4238a0b923820dcc509a6f75849b" c4ca4238a0b923820dcc509a6f75849b="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("c4ca4238a0b923820dcc509a6f75849b"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="c81e728d9d4c2f636f067f89cc14862c" c81e728d9d4c2f636f067f89cc14862c="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("c81e728d9d4c2f636f067f89cc14862c"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="eccbc87e4b5ce2fe28308fd9f2a7baf3" eccbc87e4b5ce2fe28308fd9f2a7baf3="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("eccbc87e4b5ce2fe28308fd9f2a7baf3"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="a87ff679a2f3e71d9181a67b7542122c" a87ff679a2f3e71d9181a67b7542122c="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("a87ff679a2f3e71d9181a67b7542122c"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="e4da3b7fbbce2345d7772b0674a318d5" e4da3b7fbbce2345d7772b0674a318d5="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("e4da3b7fbbce2345d7772b0674a318d5"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="1679091c5a880faf6fb5e6087eb1b2dc" 1679091c5a880faf6fb5e6087eb1b2dc="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("1679091c5a880faf6fb5e6087eb1b2dc"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="8f14e45fceea167a5a36dedd4bea2543" 8f14e45fceea167a5a36dedd4bea2543="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("8f14e45fceea167a5a36dedd4bea2543"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="c9f0f895fb98ab9159f51fd0297e236d" c9f0f895fb98ab9159f51fd0297e236d="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("c9f0f895fb98ab9159f51fd0297e236d"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="45c48cce2e2d7fbdea1afc51c7c6ad26" 45c48cce2e2d7fbdea1afc51c7c6ad26="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("45c48cce2e2d7fbdea1afc51c7c6ad26"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="d41d8cd98f00b204e9800998ecf8427e" d41d8cd98f00b204e9800998ecf8427e="18cf89b62acfb19f981c0a964a33a4b2"></div> <script> (function() { var element = document.getElementById("d41d8cd98f00b204e9800998ecf8427e"); window.csrfToken = element.getAttribute("d41d8cd98f00b204e9800998ecf8427e");	element.parentNode.removeChild(element);})(); </script></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="6512bd43d9caa6e02c990b0a82652dca" 6512bd43d9caa6e02c990b0a82652dca="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("6512bd43d9caa6e02c990b0a82652dca"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="c20ad4d76fe97759aa27a0c99bff6710" c20ad4d76fe97759aa27a0c99bff6710="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("c20ad4d76fe97759aa27a0c99bff6710"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="c51ce410c124a10e0db5e4b97fc2af39" c51ce410c124a10e0db5e4b97fc2af39="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("c51ce410c124a10e0db5e4b97fc2af39"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="aab3238922bcc25a6f606eb525ffdc56" aab3238922bcc25a6f606eb525ffdc56="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("aab3238922bcc25a6f606eb525ffdc56"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div><div><div><div><div><div><div><div><div><div><div><div style="display:none;" id="9bf31c7ff062936a96d3c8bd1f8f2ff3" 9bf31c7ff062936a96d3c8bd1f8f2ff3="39bc613ddc48480b9182fbf38d587a24"> </div> <script> '(function() { var element = document.getElementById("9bf31c7ff062936a96d3c8bd1f8f2ff3"); window.csrfToken; element.parentNode.removeChild(element);})()';</script></div></div></div></div></div></div></div></div></div></div></div>
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TV5X2M"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->    <center>
+
+    <div class="header-container">
+      <div id="header" class="wrapper">
+        <div class="inner-wrapper">
+          <!-- Header -->
+          <div id="logo-floater" class="cols-2">
+            <a href="/" title=""><img src="/sites/all/themes/abessive/logo.svg" alt="CodeChef is a non-commercial competitive programming community" id="logo" /><span></span></a>          </div>
+                    <div class="cols-2">
+            <div id="custom-login">
+              <div id="user-bar"><form action="/LTIME85A"  accept-charset="UTF-8" method="post" id="new-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="60" value="" class="form-text required new-input" placeholder="Username" tabIndex="1" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="128"  size="60"  class="form-text required new-input" placeholder="Password" tabIndex="2" />
+</div>
+<input type="hidden" name="csrfToken" id="edit-csrfToken" value="18cf89b62acfb19f981c0a964a33a4b2"  />
+<a href="/user/password" tabIndex="4">Forgot Password</a><input type="hidden" name="form_build_id" id="form-w2r1BTFqWJeoqO2RMM0jgp-zsPpMCkteht8V_3bADG8" value="form-w2r1BTFqWJeoqO2RMM0jgp-zsPpMCkteht8V_3bADG8"  />
+<input type="hidden" name="form_id" id="edit-new-login-form" value="new_login_form"  />
+<input type="submit" name="op" id="edit-submit" value="Login"  class="form-submit btn new-input-button" tabIndex="3" />
+
+</div></form>
+<form action="/LTIME85A"  accept-charset="UTF-8" method="post" id="oauth-login-form">
+<div><input type="hidden" name="csrfToken" id="edit-csrfToken-1" value="18cf89b62acfb19f981c0a964a33a4b2"  />
+<input type="hidden" name="form_build_id" id="form-GsnvM6-7JLj1jcCR5bX_tktmMK__zk3NjeYQRSpYEbo" value="form-GsnvM6-7JLj1jcCR5bX_tktmMK__zk3NjeYQRSpYEbo"  />
+<input type="hidden" name="form_id" id="edit-oauth-login-form" value="oauth_login_form"  />
+
+</div></form>
+</div><div id="facebook-login"><script type="text/javascript">
+    String.prototype.capitalize = function() {
+        return this.charAt(0).toUpperCase() + this.slice(1);
+    };
+
+    disconnectOauth = function (event, account){
+        if(event!=undefined)
+        {
+            event.preventDefault();
+        }
+        var r = confirm("Are you sure you want to disconnect "+account.capitalize()+" account?");
+        if (r == true) {
+            clearUserCache();
+            $.ajax({url:'/OAuth/'+account,
+                type:'DELETE',
+                success:function(){
+                    window.location.reload();
+                },
+                error:function(){
+                    invokeGenericModal({message:"Couldn't complete your request. Please try again.",id:account+'-error-message'});
+                }
+            });
+        }
+    };
+
+    connectOauth = function (event, url){
+        if(event!=undefined)
+        {
+            event.preventDefault();
+        }
+        clearUserCache();
+        var oauthEnterForm = document.getElementById('oauth-login-form');
+        oauthEnterForm.action = url;
+        oauthEnterForm.submit();
+    };
+</script>
+<div id="oauth-buttons" class="oauth-buttons-header">
+    <li><a class='icon-social oauth_button oauth_button-small connect' title='Signup/Login with Google' id='button_google' onclick = "connectOauth(event, '/OAuth/google?state=initiate')"></a></li><li><a class='icon-social oauth_button oauth_button-small connect' title='Signup/Login with Github' id='button_github' onclick = "connectOauth(event, '/OAuth/github?state=initiate')"></a></li><li><a class='icon-social oauth_button oauth_button-small connect' title='Signup/Login with Facebook' id='button_facebook' onclick = "connectOauth(event, '/fb/auth?src=LTIME85A');"></a></li></div></div><div class='signup'><a href='/signup' class='new-input-button btn'>New User</a></div>                          </div>
+
+            <div id="block-nice_menus-1" class="block block-nice_menus block-header">
+  <div class="content">
+    <h2><span class="nice-menu-hide-title">Site Navigation</span></h2>    <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-302" class="menuparent menu-path-problems-school"><a href="/problems/school" title="">PRACTICE</a><ul><li id="menu-5215" class="menu-path-ide"><a href="/ide" title="">Code, Compile &amp; Run</a></li>
+<li id="menu-9424" class="menu-path-https--www.codechef.com-LEARNDSAitm_campaignnavmenu"><a href="https://www.codechef.com/LEARNDSA?itm_campaign=navmenu" title="">DSA Learning Series</a></li>
+<li id="menu-2602" class="menu-path-problems-school"><a href="/problems/school" title="">Beginner</a></li>
+<li id="menu-303" class="menu-path-problems-easy"><a href="/problems/easy" title="">Easy</a></li>
+<li id="menu-304" class="menu-path-problems-medium"><a href="/problems/medium" title="">Medium</a></li>
+<li id="menu-305" class="menu-path-problems-hard"><a href="/problems/hard" title="">Hard</a></li>
+<li id="menu-1819" class="menu-path-problems-challenge"><a href="/problems/challenge" title="">Challenge</a></li>
+<li id="menu-1376" class="menu-path-problems-extcontest"><a href="/problems/extcontest" title="">Peer</a></li>
+</ul>
+</li>
+<li id="menu-309" class="menuparent menu-path-contests"><a href="/contests" title="">COMPETE</a><ul><li id="menu-2203" class="menu-path-www.codechef.com-contests"><a href="http://www.codechef.com/contests" title="">All Contests</a></li>
+<li id="menu-5225" class="menu-path-https--www.codechef.com-JUNE20itm_campaignnavmenu"><a href="https://www.codechef.com/JUNE20?itm_campaign=navmenu" title="">June Challenge 2020</a></li>
+<li id="menu-5679" class="menu-path-https--www.codechef.com-COOK119itm_campaignnavmenu"><a href="https://www.codechef.com/COOK119?itm_campaign=navmenu" title="">June Cook-Off 2020</a></li>
+<li id="menu-6466" class="menu-path-https--www.codechef.com-LTIME84itm_campaignnavmenu"><a href="https://www.codechef.com/LTIME84?itm_campaign=navmenu" title="">May Lunchtime 2020</a></li>
+</ul>
+</li>
+<li id="menu-138" class="menuparent menu-path-discuss.codechef.com-"><a href="http://discuss.codechef.com/" title="">DISCUSS</a><ul><li id="menu-139" class="menu-path-discuss.codechef.com-"><a href="http://discuss.codechef.com/" title="">Forums</a></li>
+<li id="menu-140" class="menu-path-blog.codechef.com-"><a href="http://blog.codechef.com/" title="">Blog</a></li>
+<li id="menu-920" class="menu-path-wiki-"><a href="/wiki/" title="">Wiki</a></li>
+<li id="menu-2202" class="menu-path-https--www.facebook.com-CodeChef"><a href="https://www.facebook.com/CodeChef" title="">Facebook</a></li>
+<li id="menu-141" class="menu-path-www.twitter.com-codechef"><a href="http://www.twitter.com/codechef" title="">Twitter</a></li>
+</ul>
+</li>
+<li id="menu-143" class="menuparent menu-path-node-124098"><a href="/community" title="">COMMUNITY</a><ul><li id="menu-715" class="menu-path-https--www.codechef.com-monthly-programming-contestsitm_campaignnavmenu"><a href="https://www.codechef.com/monthly-programming-contests?itm_campaign=navmenu" title="Programming Contests">Programming Contests</a></li>
+<li id="menu-650" class="menu-path-https--www.codechef.com-certification-data-structures-and-algorithmsitm_campaignnavmenu"><a href="https://www.codechef.com/certification/data-structures-and-algorithms?itm_campaign=navmenu" title="">Certification</a></li>
+<li id="menu-146" class="menu-path-https--www.codechef.com-corporates"><a href="https://www.codechef.com/corporates" title="">CodeChef for Business</a></li>
+<li id="menu-6030" class="menu-path-https--goodies.codechef.com-"><a href="https://goodies.codechef.com/" title="">Goodies Website</a></li>
+<li id="menu-5866" class="menu-path-https--www.codechef.com-snackdown"><a href="https://www.codechef.com/snackdown" title="">SnackDown 2019</a></li>
+<li id="menu-5741" class="menu-path-www.codechef.com-school"><a href="http://www.codechef.com/school" title="">CodeChef for Schools</a></li>
+<li id="menu-733" class="menu-path-www.codechef.com-hostyourcontest"><a href="http://www.codechef.com/hostyourcontest" title="Hosting Contest on CodeChef">Host your Contest</a></li>
+<li id="menu-2310" class="menu-path-www.codechef.com-goforgold"><a href="http://www.codechef.com/goforgold" title="">Go for Gold</a></li>
+<li id="menu-3830" class="menu-path-www.codechef.com-campus_chapter-about"><a href="http://www.codechef.com/campus_chapter/about" title="">Campus Chapter</a></li>
+</ul>
+</li>
+<li id="menu-147" class="menuparent menu-path-node-3"><a href="/help" title="">HELP</a><ul><li id="menu-5824" class="menu-path-node-6587475"><a href="/ratings" title="">Rating Mechanism</a></li>
+<li id="menu-6689" class="menu-path-node-9690576"><a href="/ratings/divisions" title="Rating Divisions">Rating Divisions</a></li>
+<li id="menu-643" class="menu-path-www.codechef.com-wiki-faq"><a href="http://www.codechef.com/wiki/faq" title="">Frequently Asked Questions</a></li>
+<li id="menu-5813" class="menu-path-ratings-all"><a href="/ratings/all" title="">CodeChef Rating (All)</a></li>
+<li id="menu-5815" class="menu-path-ratings-all-school"><a href="/ratings/all-school" title="">CodeChef Rating (Junior)</a></li>
+<li id="menu-710" class="menu-path-www.codechef.com-wiki-faq-problem-setters"><a href="http://www.codechef.com/wiki/faq-problem-setters" title="">FAQ for problem setters</a></li>
+<li id="menu-1389" class="menu-path-www.codechef.com-problemsetting"><a href="http://www.codechef.com/problemsetting" title="Codechef Problem Creation">Problem Setting</a></li>
+<li id="menu-850" class="menu-path-www.codechef.com-wiki-tutorials"><a href="http://www.codechef.com/wiki/tutorials" title="">Tutorials</a></li>
+<li id="menu-1820" class="menu-path-node-503865"><a href="/event-calendar" title="Event Calendar">Event Calendar</a></li>
+<li id="menu-2372" class="menu-path-discuss.codechef.com-top-users-"><a href="http://discuss.codechef.com/top/users/" title="">Top Contributors on Discuss</a></li>
+</ul>
+</li>
+<li id="menu-5681" class="menuparent menu-path-node-6479484"><a href="/aboutus" title="">ABOUT</a><ul><li id="menu-151" class="menu-path-www.codechef.com-aboutus"><a href="http://www.codechef.com/aboutus" title="">About CodeChef</a></li>
+<li id="menu-709" class="menu-path-node-157470"><a href="/ceoscorner" title="CEO&#039;s Corner">CEO&#039;s Corner</a></li>
+<li id="menu-9149" class="menu-path-https--www.codechef.com-careers"><a href="https://www.codechef.com/careers" title="">Careers</a></li>
+<li id="menu-708" class="menu-path-node-157468"><a href="/press" title="Press Room">Press Room</a></li>
+<li id="menu-1858" class="menu-path-www.codechef.com-contactus"><a href="http://www.codechef.com/contactus" title="">Contact Us</a></li>
+</ul>
+</li>
+</ul>
+  </div>
+</div>
+          </div>
+
+        </div>
+      </div>
+      <!-- /HEADER -->
+    </div><!--.header-container-->
+
+    <center>
+            <!-- BEGIN: CONTENT -->
+      <table cellspacing="0" cellpadding="10" id="maintable" class="maintable">
+        <tr>
+          <td class="content" width="99%">
+            <div class="wrapper" id="content-regions">
+              <div class="inner-wrapper rounded-cr-body">
+                <div class="rounded-cr-header">
+                  <div class="rounded-cr-footer">
+                    <div id="breadcrumb">
+                      <div class="breadcrumb"><a href="/">Home</a>&nbsp;&raquo;&nbsp;<a href="/contests/">Compete</a>&nbsp;&raquo;&nbsp;June Lunchtime 2020 Division 1</div>                    </div>
+                    <div id="primary-content" class="cols-2">
+                                            <img class="content-wrapper-header content" src="/sites/all/themes/abessive/images/content-wrapper-bg.gif"/>
+
+                      <div class="content-wrapper">
+                        <div id='ember-app'></div>
+                                                                        <form id="filter" name="filter" action=""method="GET">
+           <input id="sort_by" name="sort_by" type="hidden" value="All">
+           <input id="sorting_order" name="sorting_order" type="hidden" value="">
+           </form><div class='table-heading-box'><div class='table-heading'><div class="content-spacer">
+            <img width="602px" height="287px" class="content-wrapper-header" alt="Try your hand at one of the practice
+                 problems, and submit your solution in the language of your choice
+                 (our judge accepts solutions in over 35+ languages). Receive points,
+                 and move up through the CodeChef ranks. Get better, and better prepare
+                 yourself for the competitions" src="/sites/default/files/uploads/landing_page_banners/banner-compete.jpg" />
+            <div class="content-wrapper"></div></div>
+<div class="">
+    <table class="dataTable" width="100%">
+        <thead>
+        <tr>
+            <th align="center" style="width:60%;" ><a href="javascript: sorting('Name','asc')" style="color:white; text-decoration:underline;">Name</a></th><th align="center" style="width:20%" ><a href="javascript: sorting('Code','asc')" style="color:white; text-decoration:underline;">Code</a></th><th align="center" style="width:10%;" ><a href="javascript: sorting('SuccessfulSubmission','desc')" style="color:white; text-decoration:underline;">Successful Submission</a></th><th align="center" style="width:10%;" ><a href="javascript: sorting('Accuracy','asc')" style="color:white; text-decoration:underline;">Accuracy</a></th>        </tr>
+        </thead>
+        <tbody>
+                    </tbody>
+    </table>
+    <br /> <div class="social-button-container" style="padding:5px 5px 20px 2px;">
+    <div class="social-button-label"><b>Liked the Contest? Hit Like Button below.</b></div>
+    <div class="social-button">
+        <!-- Facebook Social Plugin -->
+        <div class="fb-like" data-href="https://www.codechef.com/LTIME85A" data-width="370px" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<h4 style="font-size: 10px;"></h4>
+<p class="last">New users are requested to go through the below information to know more about the contest.</p>
+<h4>CodeChef: A Platform for Aspiring Programmers</h4>
+<p class="last">CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming and programming contests. At CodeChef, we work hard to revive the geek in you by hosting a programming contest at the start of the month and another smaller programming challenge in the middle of the month.</p>
+<h4>About CodeChef Lunchtime:</h4>
+<p class="last">CodeChef Lunchtime is a three hours coding contest where you can show off your computer programming skills.</p>
+<h4>Contest Details:</h4>
+<ul class="last">
+<li><strong>D</strong><b>uration: </b>3 hours</li>
+<li><b>Start Date: </b>Saturday, 27th June, 2020 at 19:30 HRS (IST)</li>
+<li><b>End Date: </b>Saturday, 27th June, 2020 at 22:30 HRS (IST)</li>
+<li>Check your timezone <a target="_blank" href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=June+Lunchtime+2020&amp;iso=20200627T1930&amp;p1=44&amp;ah=3">here</a>.</li>
+</ul>
+<h4>Eligibility Criteria: Anyone with a knack for Programming :P</h4>
+<p class="last">Our contests are open to all the programmers across the globe.</p>
+<h4>What's in it for you?</h4>
+<p>The idea behind these programming contests is that we want you to learn while competing. Also we believe that it is alright to refer to tutorials, books and other materials, learn a concept and then apply the same to solve a problem during a contest. But it is <strong>not alright to copy other people's solutions or seek other people's help to solve a problem without understanding it.</strong> The dividing line may seem to be thin but it can be captured by the spirit of learning. If whatever you are doing is making you learn while you do so, we tend to believe that it is alright. However, all the participants are expected to abide to <a class="button blue" href="/codeofconduct">CodeChef Code Of Conduct</a></p>
+<p>Not just that, as a token of motivation we also give away goodies to the winners of the contest. You can know more about prizes <a href="http://discuss.codechef.com/questions/51999/how-do-i-win-a-codechef-goodie">here</a>. However, our sole intention lies in making our users learn new concepts while competing.</p>
+<p><strong>For Indians:</strong></p>
+<ul>
+<li>Top 10 school students from ranklist will receive 300 laddus &amp; a certificate.</li>
+</ul>
+<p><strong>For Global:</strong></p>
+<ul>
+<li>Top 10 school students from ranklist will receive 300 laddus &amp; a certificate. </li>
+</ul>
+<p class="last">With CodeChef laddus, the winners can claim cool CodeChef goodies. Know more <a href="https://goodies.codechef.com/">here</a>. In addition to it an appreciation certificate will also be provided to the winners.</p>
+<h4>Rules and Regulations:</h4>
+<ul>
+<li>This is an IOI style contest. This means that the problems will be partially graded. You will get score for passing certain test data.</li>
+<li>The details of the failed test cases will also be visible on your solution page.</li>
+<li>You can submit solutions as many times as you'd like, there are no penalties for incorrect submissions. Only your best correct submission will be considered.</li>
+<li>Those who achieve the score first will be placed higher in the ranklist in case of a tie.</li>
+<li>The contest is meant for students of high school and middle school though everyone is invited to participate.</li>
+<li>There will be separate ranking page for school students. The school students will be identified by the institution that they have entered in their profile.</li>
+<li><strong>We have removed all the Institutions that we could not identify from our database. We request you to update your institutions once again by going to your profile page.</strong></li>
+<li>You can also send in your queries in an email to <a href="mailto:help@codechef.com" target="_blank">help@codechef.com</a>, during the contest.</li>
+<li>Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions clarifying the problem statement is ok. If you are unsure, email us at <a href="mailto:feedback@codechef.com" target="_blank"> feedback@codechef.com </a>.</li>
+<li>Discussing CodeChef's problems or any aspect of problem, on any other platform on web, on identification, could lead to disabling of respective account and banning from the community.</li>
+<li>Residents of the following countries and territories are not eligible to win cash prizes/laddus/goodies due to legal restrictions: Albania, Bahamas, Barbados, Botswana, Burma, Cambodia, Crimea region of Russia, Cuba, Ghana, Iceland, Iran, Jamaica, Mauritius, Mongolia, Myanmar, Nicaragua, North Korea, Pakistan, Panama, Sudan, Syria, Uganda, Yemen, Zimbabwe.</li>
+</ul>
+<p><strong>Note: You can now "Code, Compile, and Run" your codes on our <a href="/ide">Online IDE</a>.</strong></p>
+<p>However, if you are using any other online development environment, make sure that other contestants don't have access to your code. As a contestant, you are responsible for making sure others don't access the code that you submit. If you use Ideone, make sure to mark your submission "private" (not secret)".</p></div></div></div><div id="block-contest_moderation-0" class="block block-contest_moderation">
+  <div class="r1 t"></div><div class="r2"></div><div class="r3"></div><div class="r4"></div><div class="r5"></div>
+  <div class="content">
+    <h3>Announcements</h3>    <div id='announce_content'>
+    </div>
+
+<script type="text/javascript">
+(function(){
+	function refresh_announce() {
+	$.ajax({
+	  type: "GET",
+	  url: "/get/announcements/LTIME85A",
+	  success: function (data) {
+			$("#announce_content").html(data);
+	  }
+	});
+	}
+	setInterval(refresh_announce,'120000');        
+})();
+</script>  </div>
+  <div class="r5"></div><div class="r4"></div><div class="r3"></div><div class="r2"></div><div class="r1 b"></div>
+</div>
+                      </div>
+                    </div>
+                    <div id="sidebar-content" class="cols-2">
+                      <div class="content-spacer">
+                        
+                          <div class="rounded-block">
+                            <div class="rounded-b-header">
+                              <div class="rounded-b-footer"><div id="block-block-75" class="block block-block">
+  <div class="r1 t"></div><div class="r2"></div><div class="r3"></div><div class="r4"></div><div class="r5"></div>
+  <div class="content">
+        
+<div class="center topbox-small-2" style="text-align: center; width:305px; margin-bottom: 15px;"><h3>CONTEST RANKS</h3>
+</div>
+<div style="width:305px;" id="contest-ranks" >
+    <div style="text-align: center; margin:auto;">
+        Click <a href="/rankings/LTIME85A">here</a> for the contest Ranks.
+    </div>
+</div>  </div>
+  <div class="r5"></div><div class="r4"></div><div class="r3"></div><div class="r2"></div><div class="r1 b"></div>
+</div>
+</div>
+                            </div>
+                          </div>                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </center>
+  </center>
+  <footer id="cc-footer-div">
+      <style>
+    .center-desc {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 11px !important;
+    }
+
+    #cc-footer-div {
+        background: #fff;
+        border-top: 2px solid #cbcbcb;
+        padding-top: 55px;
+        font-family: Arial, sans-serif !important;
+        text-align: left!important;
+    }
+
+    .horizontal-list {
+        display: flex;
+        margin-left: 0 !important;
+        padding: 0px !important;
+        margin-bottom: 20px;
+    }
+
+    .horizontal-list li {
+        list-style: none;
+        font-size: 11px !important;
+        padding: 0px 5px 0px 0px !important;
+        height: 12px !important;
+    }
+
+    .horizontal-list li a {
+        color: #4a4a4a !important;
+        font-size: 11px !important;
+        text-decoration: underline;
+    }
+
+    .horizontal-list li a:hover {
+        text-decoration: underline !important;
+    }
+
+    .li-hr {
+        height: 11px;
+        width: 1px;
+        background: #4a4a4a;
+        display: block;
+        align-self: center;
+        margin-right: 5px;
+        position: relative;
+        top: 0.2em;
+    }
+
+    .footer-row {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 950px;
+    }
+
+    .flex-row-footer {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .flex-row-footer p {
+        font-size: 11px !important;
+        color: #4a4a4a !important;
+        margin-bottom: 5px !important;
+    }
+
+    .flex-row-footer p a {
+        color: #4a4a4a !important;
+        text-decoration: underline !important;
+    }
+
+    .flex-row-footer p a:hover {
+        text-decoration: underline !important;
+    }
+
+    .flex-row-footer span {
+        color: #4a4a4a !important;
+        font-size: 11px !important;
+    }
+
+    .footer-uniq-div {
+        color: #4a4a4a !important;
+        font-size: 11px !important;
+        text-align: right;
+    }
+
+    .para-div {
+        margin: 10px 0 0 0 !important;
+    }
+
+    .para-div article h6 {
+        font-weight: 700 !important;
+        font-size: 13px !important;
+        color: #666 !important;
+        margin-bottom: 0 !important;
+    }
+
+    .para-div article h6 a {
+        text-decoration: underline !important;
+        color: #666 !important;
+    }
+
+    .para-div article h6 a:hover {
+        text-decoration: underline !important;
+    }
+
+    .para-div article p {
+        font-size: 12px !important;
+        color: #777 !important;
+        text-align: justify !important;
+        margin-bottom: 5px;
+        line-height: 1.6 !important;
+    }
+
+    .footer-flex-list {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px !important;
+        width: 795px;
+    }
+
+    .footer-flex-list h6 {
+        font-size: 13px !important;
+        font-weight: 700 !important;
+        text-decoration: underline !important;
+        color: #777 !important;
+    }
+
+    .inner-footer-div ul li {
+        list-style: none !important;
+        height: 25px !important;
+        padding: 0px !important;
+    }
+
+    .inner-footer-div li a {
+        list-style: none !important;
+        font-size: 12px !important;
+        color: #666 !important;
+        padding: 0 0 5px 0 !important;
+        text-decoration: underline !important;
+    }
+
+    .inner-footer-div li a:hover {
+        text-decoration: underline !important;
+    }
+
+    .inner-footer-div ul {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+</style>
+
+
+<script language="javascript" type="text/javascript">
+    function savedServerOffset(ts) {
+        ts = ts * 1000;
+        now = Date.now();
+        offset = now - ts;
+        return offset;
+    }
+
+    function formatTime(offset) {
+        ts = Date.now() - offset;
+        now = new Date(ts);
+        localtime = new Date();
+        hour = now.getHours();
+        min = now.getMinutes();
+        sec = now.getSeconds();
+
+        if (min <= 9) {
+            min = "0" + min;
+        }
+        if (sec <= 9) {
+            sec = "0" + sec;
+        }
+        if (hour > 12) {
+            hour = hour - 12;
+            add = " PM";
+        } else {
+            hour = hour;
+            add = " AM";
+        }
+        if (hour == 12) {
+            add = " PM";
+        }
+        if (hour == 00) {
+            hour = "12";
+        }
+
+        $('#server-time').html(((hour <= 9) ? "0" + hour : hour) + ":" + min + ":" + sec + add);
+
+        nextSec = (now.getTime() + 1000);
+
+        setTimeout("formatTime(" + offset + ")", 1000);
+    }
+
+    function getDtTimeZone() {
+        var rightNow = new Date();
+        var toDay = new Date(rightNow.getFullYear(), 0, 1, 0, 0, 0, 0);
+        var temp = toDay.toGMTString();
+        var date2 = new Date(temp.substring(0, temp.lastIndexOf(" ") - 1));
+        var stdTime = (toDay - date2) / (1000 * 60 * 60);
+        return stdTime;
+    }
+
+</script>
+<div class="footer-row">
+<p class="center-desc"><u>CodeChef is a non-profit competitive programming community</u></p>
+</div>
+<div class="footer-row flex-row-footer">
+    <div>
+        <ul class="horizontal-list">
+            <li><a href="/aboutus/">About CodeChef</a></li>
+            <div class="li-hr"></div>
+            <li><a href="/ceoscorner/">CEO's Corner</a></li>
+            <div class="li-hr"></div>
+            <li><a href="/contactus">Contact Us</a></li>
+        </ul>
+        <p>CodeChef uses SPOJ &copy; by <a href="https://www.sphere-research.com" target="_blank">Sphere Research
+                Labs</a><br>In order to report copyright violations of any kind, send in an email to <a
+                    href="mailto:copyright@codechef.com">copyright@codechef.com</a></p>
+    </div>
+
+    <div>
+        <div class="footer-uniq-div">The time now is: <span id="server-time"></span><br/>
+            <span>Your IP: <span>183.83.194.100</span></span>
+            <script language='javascript'>formatTime(savedServerOffset('1591095699'));</script>        </div>
+    </div>
+</div>
+<div class="footer-row">
+    <div class="para-div">
+        <article>
+            <h6><a href="/">CodeChef</a> - A Platform for Aspiring Programmers</h6>
+            <p>CodeChef was created as a platform to help programmers make it big in the world of
+                <strong>algorithms</strong>, <strong>computer programming</strong>, and <strong>programming
+                    contests</strong>. At CodeChef we work hard to revive the geek in you by hosting a <strong>programming
+                    contest</strong> at the start of the month and two smaller programming challenges at the middle and
+                end of the month. We also aim to have training sessions and discussions related to
+                <strong>algorithms</strong>, <strong>binary search</strong>, technicalities like <strong>array
+                    size</strong> and the likes. Apart from providing a platform for <strong>programming
+                    competitions</strong>, CodeChef also has various algorithm tutorials and forum discussions to help
+                those who are new to the world of <strong>computer programming</strong>.</p>
+        </article>
+
+        <article>
+            <h6><a href="/problems/easy">Practice Section</a> - A Place to hone your 'Computer Programming Skills'</h6>
+            <p>Try your hand at one of our many practice problems and submit your solution in the language of your
+                choice. Our <strong>programming contest</strong> judge accepts solutions in over 55+ programming
+                languages. Preparing for coding contests were never this much fun! Receive points, and move up through
+                the CodeChef ranks. Use our practice section to better prepare yourself for the multiple <strong>programming
+                    challenges</strong> that take place through-out the month on CodeChef.</p>
+        </article>
+
+        <article>
+            <h6><a href="/contests">Compete</a> - Monthly Programming Contests, Cook-off and Lunchtime</h6>
+            <p>Here is where you can show off your <strong>computer programming skills</strong>. Take part in our 10
+                days long monthly coding contest and the shorter format Cook-off and Lunchtime <strong>coding
+                    contests</strong>. Put yourself up for recognition and win great prizes. Our <strong>programming
+                    contests</strong> have prizes worth up to INR 20,000 (for Indian Community), $700 (for Global
+                Community) and lots more CodeChef goodies up for grabs.</p>
+        </article>
+    </div>
+</div>
+
+<div class="footer-row">
+    <div class="footer-flex-list">
+        <div class="inner-footer-div">
+            <h6>Programming Tools</h6>
+            <ul>
+                <li><a href="/ide">Online IDE</a></li>
+                <li><a href="/contests">Upcoming Coding Contests</a></li>
+                <li><a href="/hostyourcontest">Contest Hosting</a></li>
+                <li><a href="/problemsetting">Problem Setting</a></li>
+                <li><a href="/wiki/tutorials">CodeChef Tutorials</a></li>
+                <li><a href="/wiki">CodeChef Wiki</a></li>
+            </ul>
+        </div>
+
+        <div class="inner-footer-div">
+            <h6>Practice Problems</h6>
+            <ul>
+                <li><a href="/problems/easy">Easy</a></li>
+                <li><a href="/problems/medium">Medium</a></li>
+                <li><a href="/problems/hard">Hard</a></li>
+                <li><a href="/problems/challenge">Challenge</a></li>
+                <li><a href="/problems/extcontest">Peer</a></li>
+                <li><a href="/problems/school">School</a></li>
+                <li><a href="/wiki/faq">FAQ's</a></li>
+            </ul>
+        </div>
+
+        <div class="inner-footer-div">
+            <h6>Initiatives</h6>
+            <ul>
+                <li><a href="/goforgold">Go for Gold</a></li>
+                <li><a href="/school">CodeChef for Schools</a></li>
+                <li><a href="/campus_chapter">Campus Chapters</a></li>
+                <li><a href="/corporates">CodeChef for Business</a></li>
+
+            </ul>
+        </div>
+
+        <div class="inner-footer-div">
+            <h6>Policy</h6>
+            <ul>
+                <li><a href="/terms">Terms of Service</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/refund-policy">Refund Policy</a></li>
+                <li><a href="/codeofconduct">Code of Conduct</a></li>
+                <li><a href="/bug-bounty-program">Bug Bounty Program</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-53602-42']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '460995904241257');
+    fbq('track', 'PageView');
+
+</script>
+<noscript>
+    <img height="1" width="1" src="https://www.facebook.com/tr?id=460995904241257&ev=PageView
+   &noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Linkedin Code -->
+<script type="text/javascript">
+    _linkedin_data_partner_id = "93463";
+
+</script>
+<script type="text/javascript">
+    (function () {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })();
+</script>
+<noscript><img height="1" width="1" style="display:none;" alt=""
+               src="https://dc.ads.linkedin.com/collect/?pid=93463&fmt=gif"/></noscript>
+<!-- Linkedin Code End -->  </footer>
+    <script type="text/javascript">
+        _linkedin_data_partner_id = "93463";
+        </script><script type="text/javascript">
+        (function(){var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})();
+        </script>
+        <noscript>
+        <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=93463&fmt=gif" />
+        </noscript>
+        <script>
+    $(document).ready(function(){
+      var cookie_name = "i-love-cookies";
+      show_hide_cookie_notification(cookie_name);
+      $("#gdpr-i-love-cookies").click(function(){
+        cCookie(cookie_name,"yes",{expires:30,path:"/"});
+        show_hide_cookie_notification(cookie_name);
+      });
+
+      function show_hide_cookie_notification(cookie_name){
+        var value = cCookie(cookie_name);
+        if(value == "yes"){
+          $("#gdpr-cookie-notif").fadeOut();
+        }else{
+          $("#gdpr-cookie-notif").fadeIn();
+        }
+      }
+
+    });</script><div id="gdpr-cookie-notif" class="global--announcement" style="display: none;">
+    <div class="global--announcement__content">
+      <p>We use cookies to improve your experience and for analytical purposes.<br>Read our <a href="/privacy-policy">Privacy Policy</a> and <a href="/terms">Terms</a> to know more. You consent to our cookies if you continue to use our website.</p>
+    </div>
+    <div class="global--announcement__action">
+      <button id="gdpr-i-love-cookies" class="button grey tiny">Okay</button>
+    </div>
+  </div></body>
+</html>

@@ -1,0 +1,245 @@
+
+
+COOK92
+Chef Goes to the Cinema				www.codechef.com/COOK92A/problems/CO92SUBW
+Chef Restores a Matrix				www.codechef.com/COOK92A/problems/CO92MATR
+Chef Restores an Array				www.codechef.com/COOK92A/problems/CO92REST
+Chef Chooses a Subset				www.codechef.com/COOK92A/problems/CO92TREE
+Chef Judges a Competition				www.codechef.com/COOK92A/problems/CO92JUDG
+Maximum Tree Path				www.codechef.com/COOK92A/problems/MXPATH
+
+
+COOK93
+Binary Nim				www.codechef.com/COOK93A/problems/BINIM
+Run Direction				www.codechef.com/COOK93A/problems/RUNDIR
+Chef Goro				www.codechef.com/COOK93A/problems/CHEFGORO
+Cut the Board				www.codechef.com/COOK93A/problems/CUTBOARD
+Pawn Chess				www.codechef.com/COOK93A/problems/PWNCHESS
+Hamel Paths				www.codechef.com/COOK93A/problems/HAMEL
+
+
+COOK94
+
+
+COOK95
+Good Permutations				www.codechef.com/COOK95A/problems/GOODPERM
+Masha and Minions				www.codechef.com/COOK95A/problems/MINIONS
+Sonya and Segments				www.codechef.com/COOK95A/problems/SONYASEG
+Archi and Comparsion				www.codechef.com/COOK95A/problems/NUMCOMP
+Danya and Numbers				www.codechef.com/COOK95A/problems/DANYANUM
+Batman and Tree				www.codechef.com/COOK95A/problems/BTMNTREE
+
+
+COOK96
+OR Matrix				www.codechef.com/COOK96A/problems/ORMATRIX
+Chef and GCD Game 				www.codechef.com/COOK96A/problems/CHGCDG
+Sticks				www.codechef.com/COOK96A/problems/STICKS2
+Finding Second Maximum				www.codechef.com/COOK96A/problems/F2NDMAX
+Encoding Message				www.codechef.com/COOK96A/problems/ENCMSG
+Chef and Queries on a Tree				www.codechef.com/COOK96A/problems/CHAQOT
+
+
+COOK97
+Mixi Game				www.codechef.com/COOK97A/problems/MIXGA
+GukiZ and Candies				www.codechef.com/COOK97A/problems/GUZAC
+Hack Fulu				www.codechef.com/COOK97A/problems/HACKFU
+Balsa For The Three				www.codechef.com/COOK97A/problems/BFTT
+Standard Tree Task				www.codechef.com/COOK97A/problems/STTT
+No Queries No Fun				www.codechef.com/COOK97A/problems/NQNF
+
+
+COOK98
+Make a Permutation				www.codechef.com/COOK98A/problems/MAKPERM
+OneTwo				www.codechef.com/COOK98A/problems/OETW
+Learning Dishes				www.codechef.com/COOK98A/problems/UPDOTR
+Ghayeeth vs Siroj				www.codechef.com/COOK98A/problems/GHVSSI
+ATM Machine				www.codechef.com/COOK98A/problems/ATM2
+Dot It				www.codechef.com/COOK98A/problems/DOTIT
+
+
+COOK99
+Binary Nim 2				www.codechef.com/COOK99A/problems/BINIM2
+Pumping Water				www.codechef.com/COOK99A/problems/PUMPWAT
+Power Tree				www.codechef.com/COOK99A/problems/PWRTREE
+Ada and the Staircase				www.codechef.com/COOK99A/problems/ADASTAIR
+Ada Bishop				www.codechef.com/COOK99A/problems/ADASHOP
+Ada Farm				www.codechef.com/COOK99A/problems/ADAFARM
+
+
+COOK100
+Beautiful Garland				www.codechef.com/COOK100A/problems/BEAUTGAR
+A-B Game				www.codechef.com/COOK100A/problems/ABGAME
+Tree Unattractiveness				www.codechef.com/COOK100A/problems/TREEUNAT
+Data Pipelines				www.codechef.com/COOK100A/problems/DATAPIPE
+Truth and Dare				www.codechef.com/COOK100A/problems/TRUEDARE
+Elephants in a Pond				www.codechef.com/COOK100A/problems/ELEPPOND
+
+
+COOK101
+Yalalovichik Numbers				www.codechef.com/COOK101A/problems/YVNUM
+Yalalovichik Strings				www.codechef.com/COOK101A/problems/YVSTR
+Swag Subsets				www.codechef.com/COOK101A/problems/SOSTD
+Count Subsequences				www.codechef.com/COOK101A/problems/CSUBSQ
+Camp Or Not				www.codechef.com/COOK101A/problems/CAMPON
+Digit Bounded Numbers				www.codechef.com/COOK101A/problems/INTERVCH
+
+
+COOK102
+Ada School				www.codechef.com/COOK102A/problems/ADASCOOL
+Ada Matrix				www.codechef.com/COOK102A/problems/ADAMTR
+Ada Pawns				www.codechef.com/COOK102A/problems/ADAPWNS
+Ada Function				www.codechef.com/COOK102A/problems/ADAFUN
+Ada King				www.codechef.com/COOK102A/problems/ADAKNG
+Ada Rooks				www.codechef.com/COOK102A/problems/ADAROKS
+
+
+COOK103
+Chef and Party				www.codechef.com/COOK103A/problems/CHFPARTY
+Max Range Queries				www.codechef.com/COOK103A/problems/MAXREMOV
+Chef and Secret Password				www.codechef.com/COOK103A/problems/SECPASS
+Buying New Tablet				www.codechef.com/COOK103A/problems/TABLET
+The Most Amazing Dish				www.codechef.com/COOK103A/problems/TWOARR
+Chef in Evil Land				www.codechef.com/COOK103A/problems/EVILAND
+
+
+COOK104
+XOR N-bonacci Sequence				www.codechef.com/COOK104A/problems/NBONACCI
+Markers and Caps				www.codechef.com/COOK104A/problems/MARCAPS
+Music Shopping				www.codechef.com/COOK104A/problems/SONGSHOP
+Points and Convex Hulls				www.codechef.com/COOK104A/problems/CNVX4HUL
+UEFA Champions League				www.codechef.com/COOK104A/problems/UCL
+The Frictionless Bisected 2-Dimensional World				www.codechef.com/COOK104A/problems/TFB2DW
+Cats and Rats				www.codechef.com/COOK104A/problems/CATSRATS
+
+
+COOK105
+
+
+COOK106
+Misha and Nice Sets				www.codechef.com/COOK106A/problems/GCDSET
+Expected Xor				www.codechef.com/COOK106A/problems/EXPXOR
+Searching for a Biclique				www.codechef.com/COOK106A/problems/BICLIQUE
+Bitsetbaba and Power Grid				www.codechef.com/COOK106A/problems/XORCMPNT
+Chain Reaction				www.codechef.com/COOK106A/problems/REACTION
+Nearest Color				www.codechef.com/COOK106A/problems/COLORDIS
+Recover the Sequence				www.codechef.com/COOK106A/problems/RECVSEQ
+
+
+COOK107
+Ants and Anteaters				www.codechef.com/COOK107A/problems/ANTEATER
+Drink Slush				www.codechef.com/COOK107A/problems/SLUSH
+Nice Subsets				www.codechef.com/COOK107A/problems/SUBSETS
+Zawad and Index Sum				www.codechef.com/COOK107A/problems/IDXSUM
+Multiple Choice Exam				www.codechef.com/COOK107A/problems/EXAM1
+Eat Twice				www.codechef.com/COOK107A/problems/EATTWICE
+The Secret Recipe				www.codechef.com/COOK107A/problems/SECRECP
+
+
+COOK108
+Birthday Gift Again				www.codechef.com/COOK108A/problems/BDGFT
+Expected Product				www.codechef.com/COOK108A/problems/EXPTPROD
+War in Treeland Again				www.codechef.com/COOK108A/problems/WARTLND
+Playing with Strings				www.codechef.com/COOK108A/problems/PLAYSTR
+Minimum and Maximum				www.codechef.com/COOK108A/problems/MNMXAR
+Magical Menu				www.codechef.com/COOK108A/problems/MGICMENU
+Two Variables				www.codechef.com/COOK108A/problems/TWOVRIBL
+
+
+COOK109
+Rich Substrings				www.codechef.com/COOK109A/problems/RICHSTR
+Two Circles				www.codechef.com/COOK109A/problems/CIRCLES2
+Warriors				www.codechef.com/COOK109A/problems/WARRIORS
+Chef and Pepperoni Pizza				www.codechef.com/COOK109A/problems/PEPPERON
+Magic Permutations				www.codechef.com/COOK109A/problems/MAGPER
+Friends and Candies				www.codechef.com/COOK109A/problems/FRICAN
+Chef Drinks Coke				www.codechef.com/COOK109A/problems/COKE
+
+
+COOK110
+Angry Grandfather				www.codechef.com/COOK110A/problems/ANGGRA
+Fitness Exercises 				www.codechef.com/COOK110A/problems/EXERCISE
+Hiring Chefs				www.codechef.com/COOK110A/problems/HIRING
+Save Jewels				www.codechef.com/COOK110A/problems/SAVJEW
+Playing with Matches				www.codechef.com/COOK110A/problems/MATCHES
+Palindromes Machine				www.codechef.com/COOK110A/problems/PALMACH
+Two Groups				www.codechef.com/COOK110A/problems/TWOGRS
+
+
+COOK111
+D-Or				www.codechef.com/COOK111A/problems/DOR
+D-Value				www.codechef.com/COOK111A/problems/DVL
+Hidden Sequence				www.codechef.com/COOK111A/problems/HDDN
+Cakewalk				www.codechef.com/COOK111A/problems/CKWLK
+Medel				www.codechef.com/COOK111A/problems/MDL
+Moonwalk				www.codechef.com/COOK111A/problems/MNWLK
+D-Function				www.codechef.com/COOK111A/problems/DFNC
+
+
+COOK112
+The Biggest Restaurant				www.codechef.com/COOK112A/problems/BIGRES
+Robots in Chefland				www.codechef.com/COOK112A/problems/ROBOTS
+The Challenge Day				www.codechef.com/COOK112A/problems/CHADAY
+Chef Diet				www.codechef.com/COOK112A/problems/DIET
+Black-and-White Tree				www.codechef.com/COOK112A/problems/BLWHTREE
+Expected Number of Customers 				www.codechef.com/COOK112A/problems/MMNN01
+Signature				www.codechef.com/COOK112A/problems/SIGNTURE
+
+
+COOK113
+Xor It				www.codechef.com/COOK113A/problems/XORIT
+Change It				www.codechef.com/COOK113A/problems/CHNGIT
+Crash It				www.codechef.com/COOK113A/problems/CRSHIT
+The Inexplicable Giant Floating Baby Head				www.codechef.com/COOK113A/problems/DAND
+Purify It				www.codechef.com/COOK113A/problems/PRFYIT
+Make It				www.codechef.com/COOK113A/problems/MKIT
+Decorate It				www.codechef.com/COOK113A/problems/DCRTIT
+
+
+COOK114
+Range AND				www.codechef.com/COOK114A/problems/RGAND
+Chefina and Sums				www.codechef.com/COOK114A/problems/CFINASUM
+Profitable Paths				www.codechef.com/COOK114A/problems/PRT
+Almost Palindromic				www.codechef.com/COOK114A/problems/PLIND
+Chef Chick				www.codechef.com/COOK114A/problems/CHFCHK
+Exam Cheating				www.codechef.com/COOK114A/problems/EXAMCHT
+Count It				www.codechef.com/COOK114A/problems/CNTIT
+
+
+COOK115
+XOR Game				www.codechef.com/COOK115A/problems/XORGM
+Maximum Subsequence Sum				www.codechef.com/COOK115A/problems/CYCLCSUM
+Chef and Pepperoni Pizza Again				www.codechef.com/COOK115A/problems/PEPPERA
+Must Be Divisible				www.codechef.com/COOK115A/problems/CHFDIV
+Sweetest Candy 				www.codechef.com/COOK115A/problems/SUBMAXA
+Tax Slabs				www.codechef.com/COOK115A/problems/SLAB
+Penalty Shoot-Out II				www.codechef.com/COOK115A/problems/PSHOT
+
+
+COOK116
+Mysterious Sequence				www.codechef.com/COOK116A/problems/MYSARA
+Maximize Letter Beauty				www.codechef.com/COOK116A/problems/MAXBTY
+Escape the Tree 				www.codechef.com/COOK116A/problems/ESCTRE
+Random Chocolates				www.codechef.com/COOK116A/problems/RANDCHCL
+A Tree to Remember				www.codechef.com/COOK116A/problems/TRERMB
+Find Your Gift				www.codechef.com/COOK116A/problems/GIFTSRC
+Box of Chocolates				www.codechef.com/COOK116A/problems/CHCBOX
+
+
+COOK117
+Simple Operations				www.codechef.com/COOK117A/problems/MINOPS
+Tower Counting				www.codechef.com/COOK117A/problems/TOWCNT
+Inversions in Permutations				www.codechef.com/COOK117A/problems/KPERM
+The Gifting Problem				www.codechef.com/COOK117A/problems/KARRAY
+Lift Requests				www.codechef.com/COOK117A/problems/LIFTME
+Matrix Decomposition				www.codechef.com/COOK117A/problems/MATBREAK
+Maximum GCD Subset				www.codechef.com/COOK117A/problems/TREESUB
+
+
+COOK118
+Roads in Chefland				www.codechef.com/COOK118A/problems/CROADS
+Chef, Chefina and Their Friendship				www.codechef.com/COOK118A/problems/CHEFSHIP
+Chefina on a Trip				www.codechef.com/COOK118A/problems/CHEFTRIP
+Chefland Squads and the Army Chief				www.codechef.com/COOK118A/problems/CHEFSQUD
+Chef and Recipe				www.codechef.com/COOK118A/problems/CHEFRECP
+Curious Queries				www.codechef.com/COOK118A/problems/CURSQURS
+Impressing Chefina				www.codechef.com/COOK118A/problems/CHFIMPRS
